@@ -19,6 +19,11 @@ My first ever written code, freecodecamp course
 <p>Understand the foundations to become successful.</p>
 
 <Adding my image source code />
+<img src="image location" /> <This is how you add an image />
+<Using the alt attritube alongside src is used for a short description of the image />
+{For example: 
+              <img src="example-cat-image-url" alt="cat-sleeping-in-the-grass" />}
+
 
 <img src="example-tent-img-url" alt="tent-in-the-woods">
 
