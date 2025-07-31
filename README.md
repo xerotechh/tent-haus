@@ -1,19 +1,24 @@
 # tent-haus
 My first ever written code, freecodecamp course
 
-<This is my header />
-<h1>Welcome to the Tent Haus!</h1>
-<h2>Where the magic happens</h2>
 
-<My paragrapgh gpes here />
-<p>Have issues with space? Don't know where to start?</p>
+<main>  
 
-<Header and paragrapgh />
-<h3>Here's where you'll find the answers you're looking for</h3>
-<p>First select a space thats comfortable for you.</p>
+  <This is my header />
+  <h1>Welcome to the Tent Haus!</h1>
+  <h2>Where the magic happens</h2>
 
-<h3>Build your dream setup</h3>
-<P>Incorporate room size and additional space needed for equipment.</P>
+  <My paragrapgh gpes here />
+  <p>Have issues with space? Don't know where to start?</p>
 
-<h3>Become A master in your field</h3>
-<p>Understand the foundations to become successful.</p>
+  <Header and paragrapgh />
+  <h3>Here's where you'll find the answers you're looking for</h3>
+  <p>First select a space thats comfortable for you.</p>
+
+  <h3>Build your dream setup</h3>
+  <P>Incorporate room size and additional space needed for equipment.</P>
+
+  <h3>Become A master in your field</h3>
+  <p>Understand the foundations to become successful.</p>
+
+</main>
